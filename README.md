@@ -1,2 +1,3 @@
-# trnpkg
-Translation files for Transpire
+# trnpkgs
+
+Translation files for Transpire. Trnpkgs are cloned to Transpire when needed.
